@@ -2,22 +2,15 @@
 
 ---
 ### Education
+# University of Rhode Island – Master of Science in Civil and Environmental Engineering, Concentration in Environmental Engineering (September 2023 – May 2025 (anticipated))
+# University of Rhode Island – Bachelor of Science in Civil and Environmental Engineering, Bachelor of Arts in Spanish, Minor in Environmental Engineering (September 2019 – May 2023)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Work Experience
-
-
----
-### Recent Projects
-
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
-
----
-
+# Research Assistant – University of Rhode Island Water for the World Lab
+# Academic Tutor – University of Rhode Island Athletics Department
+# Health, Safety, and Environmental Intern – FirstLight Power
 
 
 
